@@ -1,4 +1,3 @@
-# README.md
   <a href="https://github.com/synacyb" style="width: 100%;">
     <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/ayadouay"/>
   </a>
