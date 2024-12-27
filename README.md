@@ -8,7 +8,7 @@
 
 <br/>
 
-<p align="center"><img height="400px" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" alt="synacyb" /></p>
+<p align="center"><img height="400px" src="https://images5.alphacoders.com/480/480537.png" alt="synacyb" /></p>
 <br/>
 
 
